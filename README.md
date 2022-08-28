@@ -1,7 +1,7 @@
 # SFM scale flexes generator
 This is a simple Blender 3.* addon designed to help you to make scaling flexes for Source Filmmaker models.
 
-**This addon must be used in conjunction with ![Blender Source Tools](https://steamreview.org/BlenderSourceTools/).** Check the guide for more information.
+**This addon must be used in conjunction with ![Blender Source Tools](https://steamreview.org/BlenderSourceTools/).** Check the ![guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2845846464) for more information.
 
 ## Features
 - Cleanup of shape key names on models decompiled using Crowbar;
